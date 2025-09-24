@@ -7,6 +7,18 @@
 - ⚡ Fun fact: Curious and you'll have fun working with me
 
 ## 🌐 Socials:
+<div align="left">
+<a href="https://www.linkedin.com/in/nitish-durai-3a65721bb/" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"  />
+</a>
+<a href="https://www.instagram.com/nitish_durai/" target="blank">
+  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"  />
+</a>
+<a href="https://mail.google.com/mail/u/0/#inbox" target="blank">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"  />
+</a>
+  
+</div>
 
 
 # 💻 Tech Stack:
