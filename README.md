@@ -1,5 +1,11 @@
 ## Hi there 👋 It's Nitish 
 
+- 🔭 I’m currently working on **`Insider Navs`** and research on **`Data Miniing Techniques`**
+- 🌱 I’m currently learning **`Data Analytical Techniques`**
+- 👯 I’m looking to collaborate on Real World projects and building solutions
+- 💬 Ask me about Data Science
+- ⚡ Fun fact: Curious and you'll have fun working with me
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/nitish_durai/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nitish-durai-3a65721bb/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nitishdurai.janakiraman2005@gmail.com) 
 
